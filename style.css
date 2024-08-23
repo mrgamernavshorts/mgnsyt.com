@@ -1,0 +1,40 @@
+h1 {
+    background-color: wheat;
+    border-radius: 20px;
+    font-family: New Amsterdam;
+}
+
+body {
+    background-color: black;
+}
+
+.ml {
+    width: 200px;
+    border-radius: 200px;
+    margin: 10px;
+}
+
+p,h2,h3 {
+    font-family: New Amsterdam;
+    color: black; 
+}
+
+.ytlogo,.instalogo {
+    width: 100px;
+}
+
+.links,.info {
+    background-color: bisque;
+    margin: auto 100px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    margin-bottom: 150px;
+}
+
+.links-text,.info-text {
+    background-color: burlywood;
+    border-radius: 20px;
+    font-family: New Amsterdam;
+    color: white;
+    padding: 200px auto;
+}
