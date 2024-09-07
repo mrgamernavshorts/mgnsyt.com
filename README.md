@@ -1,4 +1,4 @@
-my officail website!
+my official website!
 
 link:
 
